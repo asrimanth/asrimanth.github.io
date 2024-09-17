@@ -12,12 +12,6 @@ copy = false
 comment = false
 +++
 
-
-<img align="left" style="margin: 15px;" alt="srimanth_dp" src="srimanth.png" width="160px"/>
-
-<br>
-<b>Srimanth Agastyaraju</b>
-
 <a href="https://x.com/a_srimanth" target="_blank">
 <img align="right" style="margin-right: 9px;" alt="twitter" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" width="27px">
 </a>
@@ -30,12 +24,13 @@ comment = false
     <img align="right" style="margin-right: 9px;" alt="github" src="https://www.svgrepo.com/show/416517/code-github-hosting.svg" width="27px"/>
 </a>
 <br>
-<br>
 
-Srimanth Agastyaraju is an accomplished AI Engineer and Deep Learning Research Engineer with extensive experience in Computer Vision, Natural Language Processing, and Software Development.
+Srimanth Agastyaraju is an accomplished AI Engineer with extensive experience in Computer Vision, Natural Language Processing, and Software Development. With a Master's in Data Science from Indiana University Bloomington, Srimanth has established himself as a versatile AI Engineer.
 
-With a Master's degree in Data Science from Indiana University Bloomington and a Bachelor's in Computer Science, Srimanth brings a strong academic foundation to his professional work. His expertise spans a wide range of technologies, including Python, PyTorch, FastAPI, LangChain, and various cloud platforms.
+His expertise in Computer Vision shines through his work at Easel AI, where he implemented an SDXL-based pipeline to enhance the quality of image generation, showcasing his ability to work with cutting-edge technologies. His proficiency extended to fine-tuning models like SDXL and SDXL Turbo, enabling personalized user image generation tasks that pushed the boundaries of what's possible in AI-driven image creation.
 
-Throughout his career, Srimanth has demonstrated his ability to innovate and drive results. At Easel AI, he re-engineered image-generative AI systems, significantly improving image quality. His work at Indiana University Bloomington involved orchestrating complex 3D reconstruction models and conducting cutting-edge research in computer vision.
+During his time as a Deep Learning Research Engineer at Indiana University Bloomington, he orchestrated a complex 3D reconstruction deep learning model with millions of parameters, pushing the boundaries of what's possible. His work on image super-resolution, particularly training Super-Resolution GAN models, further underscores his expertise.
 
-Committed to continuous learning and innovation, Srimanth is passionate about leveraging AI and machine learning to solve complex problems. His technical proficiency, combined with strong analytical and communication skills, makes him a valuable asset in the rapidly evolving field of artificial intelligence and software engineering.
+Srimanth's commitment to the AI community extends beyond his professional roles. He has been dabbling in open-source contributions, demonstrating his dedication to improving tools that the entire AI community relies on. These contributions showcase his growing interest in collaborative development and his desire to give back to the AI ecosystem.
+
+Committed to continuous learning and innovation, Srimanth is passionate about leveraging AI and machine learning to solve complex problems. Throughout his career, Srimanth has consistently demonstrated an ability to bridge the gap between theoretical AI concepts and practical applications. His experience with generative AI systems, including GANs, Stable Diffusion models, and Large Language Models, positions him at the forefront of AI innovation.
