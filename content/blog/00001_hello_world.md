@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 categories = ["Hello world! Where am I?"]
-tags = ["firstpost", "website", "zola", "staticsite"]
+tags = ["firstpost", "website", "zola", "staticsite", "blog"]
 
 [extra]
 lang = "en"
@@ -44,14 +44,15 @@ The Serene theme provides:
 
 By combining Zola's power with Serene's elegant design, you can create a beautiful, fast, and easy-to-maintain static website. Happy blogging!
 
+As you can see <a href="https://github.com/asrimanth/asrimanth.github.io/actions/workflows/publish_site.yml" target="_blank">here - publish_site.yml</a>, the build times are incredibly fast (~ 30 seconds 🚀), saving precious CI/CD hours.
+
 ## Build and Deploy
 Once you're satisfied with your site:
-Build: Run ```zola build``` to generate your static site. This will create a public directory with your compiled site.
-Preview: Use ```zola serve``` to preview your site locally. This command will start a local server and automatically rebuild your site when changes are detected.
-Deploy: Upload the contents of the public directory to your web host or use a service like GitHub Pages or Netlify for easy deployment. Serene provides deployment instructions for various platforms.
++ Build: Run ```zola build``` to generate your static site. This will create a public directory with your compiled site.
++ Preview: Use ```zola serve``` to preview your site locally. This command will start a local server and automatically rebuild your site when changes are detected.
++ Deploy: Upload the contents of the public directory to your web host or use a service like GitHub Pages or Netlify for easy deployment. Serene provides deployment instructions for various platforms.
 
 ## Useful links
 + [zola - A fast static site generator in a single binary with everything built-in.](!https://github.com/getzola/zola)
 + [serene - A blog theme for zola, simple and clean](!https://github.com/isunjn/serene)
 + [serene/USAGE](!https://github.com/isunjn/serene/blob/latest/USAGE.md)
-
