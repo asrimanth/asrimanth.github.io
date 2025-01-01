@@ -36,14 +36,14 @@ anchors = "on"
 
 name = "Srimanth Agastyaraju"                         # Your name
 id = "asrimanth"                           # Your id / username / handle
-bio = "Debugging the future, one neural network at a time 🔮🔧"                          # Your bio
+bio = "Debugging the future, one neural network at a time 🔮"                          # Your bio
 avatar = "DP_padded_transparent_compressed_256.png"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/asrimanth" },
+    { name = "Leetcode", icon = "leetcode", url = "https://leetcode.com/u/asrimanth/" },
     { name = "LinkedIn", icon = "linkedin_round", url = "https://www.linkedin.com/in/asrimanth/" },
     { name = "Twitter", icon = "twitter", url = "https://x.com/a_srimanth" },
-    { name = "Leetcode", icon = "leetcode", url = "https://leetcode.com/u/asrimanth/" },
-    # { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "Bluesky", icon = "bluesky", url = "https://bsky.app/profile/asrimanth.bsky.social" },
 ]
 
 homepage_layout = "about"             # "about" | "list" | "recent"
