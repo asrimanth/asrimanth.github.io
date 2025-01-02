@@ -37,7 +37,7 @@ anchors = "on"
 name = "Srimanth Agastyaraju"                         # Your name
 id = "asrimanth"                           # Your id / username / handle
 bio = "Debugging the future, one neural network at a time 🔮"                          # Your bio
-avatar = "DP_padded_transparent_compressed_256.png"            # Your avatar
+avatar = "dp.png"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/asrimanth" },
     { name = "Leetcode", icon = "leetcode", url = "https://leetcode.com/u/asrimanth/" },
