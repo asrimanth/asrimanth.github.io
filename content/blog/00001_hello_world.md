@@ -19,6 +19,7 @@ outdate_alert_days = 365
 display_tags = true
 truncate_summary = false
 featured = false
+is_external = true
 +++
 
 # Hello world! Where am I?
@@ -53,6 +54,6 @@ Once you're satisfied with your site:
 + Deploy: Upload the contents of the public directory to your web host or use a service like GitHub Pages or Netlify for easy deployment. Serene provides deployment instructions for various platforms.
 
 ## Useful links
-+ [zola - A fast static site generator in a single binary with everything built-in.](!https://github.com/getzola/zola)
-+ [serene - A blog theme for zola, simple and clean](!https://github.com/isunjn/serene)
-+ [serene/USAGE](!https://github.com/isunjn/serene/blob/latest/USAGE.md)
++ <a href="https://github.com/getzola/zola" target="_blank">zola - A fast static site generator in a single binary with everything built-in.</a>
++ <a href="https://github.com/isunjn/serene" target="_blank">serene - A blog theme for zola, simple and clean</a>
++ <a href="https://github.com/isunjn/serene/blob/latest/USAGE.md" target="_blank">serene/USAGE</a>
